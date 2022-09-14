@@ -1,0 +1,45 @@
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.about.resources
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.Form1.resources
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.play.resources
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.Properties.Resources.resources
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.AssemblyInfo.cs
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Nouveau dossier\menu\bin\Debug\net6.0-windows\menu.exe
+C:\Users\HP\Desktop\Nouveau dossier\menu\bin\Debug\net6.0-windows\menu.deps.json
+C:\Users\HP\Desktop\Nouveau dossier\menu\bin\Debug\net6.0-windows\menu.runtimeconfig.json
+C:\Users\HP\Desktop\Nouveau dossier\menu\bin\Debug\net6.0-windows\menu.dll
+C:\Users\HP\Desktop\Nouveau dossier\menu\bin\Debug\net6.0-windows\menu.pdb
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.dll
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\refint\menu.dll
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.pdb
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\menu.genruntimeconfig.cache
+C:\Users\HP\Desktop\Nouveau dossier\menu\obj\Debug\net6.0-windows\ref\menu.dll
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\bin\Debug\net6.0-windows\menu.exe
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\bin\Debug\net6.0-windows\menu.deps.json
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\bin\Debug\net6.0-windows\menu.runtimeconfig.json
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\bin\Debug\net6.0-windows\menu.dll
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\bin\Debug\net6.0-windows\menu.pdb
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.About.resources
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.Form1.resources
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.Play.resources
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.Properties.Resources.resources
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.dll
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\refint\menu.dll
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.pdb
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\ref\menu.dll
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.defficile.resources
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.facile.resources
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.moyen.resources
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.quizmath.resources
+C:\Users\HP\OneDrive\Bureau\Nouveau dossier (3)\menu\obj\Debug\net6.0-windows\menu.quizculturel.resources
